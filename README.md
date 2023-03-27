@@ -4,7 +4,7 @@ Anotações sobre o livro Talent Is Overrated - What Really Separates World-Clas
 
 ___
 
-## Capítulo 5 - O que é e não é prática deliberada
+## Capítulo 5 - O que é e o que não é prática deliberada
 
 > Para começar, não é o que a maioria de nós faz quando estamos praticando.
 
